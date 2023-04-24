@@ -1,0 +1,6 @@
+[0424/122755.991:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3" resulted in a network error response: the promise was rejected.", source:  (0)
+[0424/122755.992:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3" resulted in a network error response: the promise was rejected.", source:  (0)
+[0424/122755.993:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[0424/122755.993:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[0424/122813.777:INFO:CONSOLE(30)] "TypeError: Cannot read properties of undefined (reading 'toString')", source: https://web.whatsapp.com/vendor1~app.93f2846fd0de96e2ec08.js (30)
+[0424/122813.923:INFO:CONSOLE(30)] "TypeError: Cannot read properties of undefined (reading 'toString')", source: https://web.whatsapp.com/vendor1~app.93f2846fd0de96e2ec08.js (30)
